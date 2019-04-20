@@ -1,0 +1,62 @@
+{
+    "containerName": {
+        "value": "activitylogs"
+    },
+    "fileShareName": {
+        "value": "logsfileshare"
+    },
+    "databaseAccountName": {
+        "value": "nosqldbaccount"
+    },
+    "appName": {
+        "value": "functionAppName"
+    },
+    "skuCapacity" : {
+        "value" : 1
+    },
+    "skuName" : {
+        "value" : "F1"
+    },
+    "sqlAdministratorLogin": {
+        "value": "attivoSqlLogin"
+    },
+    "sqlAdministratorLoginPassword": {
+        "value": "attivo@1SqlLogin"
+    },
+    "include-filesshare" : { 
+        "value": "Yes"
+    },
+    "include-cosmosdb" : { 
+        "value": "No"
+    },
+    "include-storage" : { 
+        "value": "Yes"
+    },
+    "include-functions" : { 
+        "value": "No"
+    },
+    "include-webapp" : { 
+        "value": "No"
+    },
+    "include-sqlserver" : { 
+        "value": "No"
+    },
+    "numof-storage" : {
+        "value": 1
+    },
+    "numof-cosmosdb" : {
+        "value": 1
+    },
+    "numof-filesshare" : {
+        "value": 1
+    },
+    "numof-functions" : {
+        "value": 1
+    },
+    "numof-webapp" : {
+        "value": 1
+    },
+    "numof-sqlserver" : {
+        "value": 1
+    }
+}
